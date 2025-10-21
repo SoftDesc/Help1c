@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Описание on Подсистема справки для 1С</title>
+    <link>https://softdesc.github.io/Help1c/tags/%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5/</link>
+    <description>Recent content in Описание on Подсистема справки для 1С</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://softdesc.github.io/Help1c/tags/%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Общее описание</title>
+      <link>https://softdesc.github.io/Help1c/posts/%D0%BE%D0%B1%D1%89%D0%B5%D0%B5%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BE%D0%B1%D1%89%D0%B5%D0%B5%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Help1c/posts/%D0%BE%D0%B1%D1%89%D0%B5%D0%B5%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BE%D0%B1%D1%89%D0%B5%D0%B5%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5/</guid>
+      <description>&lt;h3 id=&#34;общее-описание&#34;&gt;Общее описание&lt;/h3&gt;&#xA;&lt;p&gt;Чтобы создать справку для приложения, следуйте этим пунктам:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Объединение конфигураций. Выполняется через меню конфигуратора &amp;ldquo;Сравнить, объединить с конфигурацией из файла&amp;hellip;&amp;rdquo;.&lt;/li&gt;&#xA;&lt;li&gt;Добавление &lt;a href=&#34;https://softdesc.github.io/Help1c/posts/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0/&#34;&gt;команды &amp;ldquo;Справка&amp;rdquo;&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Преобразование справки в формат json. Выполняется преобразование справки из &lt;a href=&#34;https://softdesc.github.io/Help1c/posts/mdtohtml/mdtohtml/&#34;&gt;формата md в формат html&lt;/a&gt;, затем справка в формате Html &lt;a href=&#34;https://softdesc.github.io/Help1c/posts/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0html/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0html/&#34;&gt;загружается в программу&lt;/a&gt;, затем справка &lt;a href=&#34;https://softdesc.github.io/Help1c/posts/%D0%B2%D1%8B%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%B2%D1%8B%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/&#34;&gt;выгружается в формате json&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://softdesc.github.io/Help1c/posts/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/&#34;&gt;Загрузка готовой справки&lt;/a&gt; в программу.&lt;/li&gt;&#xA;&lt;li&gt;Программное &lt;a href=&#34;https://softdesc.github.io/Help1c/posts/%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/&#34;&gt;восстановление справки&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>

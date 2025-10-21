@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Загрузка on Подсистема справки для 1С</title>
+    <link>https://softdesc.github.io/Help1c/tags/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0/</link>
+    <description>Recent content in Загрузка on Подсистема справки для 1С</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://softdesc.github.io/Help1c/tags/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Загрузка HTML</title>
+      <link>https://softdesc.github.io/Help1c/posts/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0html/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0html/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Help1c/posts/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0html/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0html/</guid>
+      <description>&lt;h3 id=&#34;загрузака-справки-в-формате-html&#34;&gt;Загрузака справки в формате Html&lt;/h3&gt;&#xA;&lt;p&gt;После &lt;a href=&#34;https://softdesc.github.io/Help1c/posts/mdtohtml/mdtohtml.&#34;&gt;преобразования справки из формата md в формат html&lt;/a&gt;, ее необходимо загрузить в программу.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;1.png&#34;&gt;&lt;img src=&#34;1.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Загрузка справки</title>
+      <link>https://softdesc.github.io/Help1c/posts/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Help1c/posts/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/</guid>
+      <description>&lt;h3 id=&#34;загрузака-справки-в-макет&#34;&gt;Загрузака справки в макет&lt;/h3&gt;&#xA;&lt;p&gt;Чтобы добавить готовую справку в программу необходимо:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Открыть конфигуратор;&lt;/li&gt;&#xA;&lt;li&gt;Загрузить файл справки в формате json в макет &amp;ldquo;Справка&amp;rdquo; справочника &amp;ldquo;Справка&amp;rdquo;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;1.png&#34;&gt;&lt;img src=&#34;1.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

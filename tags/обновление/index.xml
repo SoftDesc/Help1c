@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Обновление on Подсистема справки для 1С</title>
+    <link>https://softdesc.github.io/Help1c/tags/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+    <description>Recent content in Обновление on Подсистема справки для 1С</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://softdesc.github.io/Help1c/tags/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Восстановление справки</title>
+      <link>https://softdesc.github.io/Help1c/posts/%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Help1c/posts/%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/</guid>
+      <description>&lt;h3 id=&#34;при-первоначальном-заполнении-и-обновлении-конфигурации&#34;&gt;При первоначальном заполнении и обновлении конфигурации&lt;/h3&gt;&#xA;&lt;p&gt;При обновлении версии программы, необходимо обеспечить обновление справочника &amp;ldquo;Справка&amp;rdquo; данными макета &amp;ldquo;Справка&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Для этих целей в общем модуле &amp;ldquo;hlp_Справка&amp;rdquo; находится экспортная функция &amp;ldquo;ВыполнитьОбновлениеСправки&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;1.png&#34;&gt;&lt;img src=&#34;1.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Её вызов заполняет или обновляет содеримое справочника &amp;ldquo;Справка&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

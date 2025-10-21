@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Редактор on Подсистема справки для 1С</title>
+    <link>https://softdesc.github.io/Help1c/tags/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/</link>
+    <description>Recent content in Редактор on Подсистема справки для 1С</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://softdesc.github.io/Help1c/tags/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Редактор справки</title>
+      <link>https://softdesc.github.io/Help1c/posts/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Help1c/posts/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/</guid>
+      <description>&lt;h3 id=&#34;включение-редактора-справки&#34;&gt;Включение редактора справки&lt;/h3&gt;&#xA;&lt;p&gt;Параметр устанавливает ражим редактирования справки.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;1.png&#34;&gt;&lt;img src=&#34;1.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Если режим используется, вместо справки в фомате Html отображается редактор справки в формате md.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;2.png&#34;&gt;&lt;img src=&#34;2.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
